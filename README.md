@@ -3,16 +3,23 @@
 ### About Me
 Here is **Forest**
 
-- 🔭 I’m currently working ...
-- 🌱 I’m currently learning ...
-- 👯 I would like to ...
+- 🔭 I'm currently a junior at Qilu University of Technology.
+- 🌱 I’m currently learning knowledge of embedded systems and integrated circuits, and I have a strong interest in computer architecture.
+- 👯 I would like to play football and Chinese chess in my spare time, and make friends with interesting people.
 - 📫 The way to reach me:
-- 
+  
 [![Website](https://img.shields.io/badge/Blog-0088CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://forestwindness.netlify.app/)
+[![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3537106502682752?spm_id_from=333.1007.0.0)
+[![QQ Mail](https://img.shields.io/badge/QQ邮箱-12B7F5?style=for-the-badge&logo=qqmail&logoColor=white)](mailto:2551021093@qq.com)
 
 These are the skills that I know and have mastered:
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-2E3440?style=for-the-badge&logo=verilog&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Education Experience
 
